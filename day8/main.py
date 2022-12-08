@@ -51,4 +51,5 @@ with open("in.txt") as f:
             if view_score > max_score:
                 max_score = view_score
 
+
     print("Solution 2:", max_score)
